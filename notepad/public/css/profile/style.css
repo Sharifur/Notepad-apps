@@ -1,0 +1,16 @@
+.fa,.ficon {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: 42px;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    float: right;
+    top: 20px;
+    right: 40px;
+    position: absolute;
+}
+.p-text {
+    font-size: 27px;
+    padding-left: 10px;
+}
